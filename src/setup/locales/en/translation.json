@@ -1,6 +1,6 @@
 {
   "global": {
-    "name": "movie-web"
+    "name": "Taco-Tv"
   },
   "search": {
     "loading_series": "Fetching your favourite series...",
@@ -12,8 +12,8 @@
     "headingTitle": "Search results",
     "bookmarks": "Bookmarks",
     "continueWatching": "Continue Watching",
-    "title": "What do you want to watch?",
-    "placeholder": "Taco Tv"
+    "title": "Taco Tv",
+    "placeholder": "Search Taco Tv"
   },
   "media": {
     "movie": "Movie",
